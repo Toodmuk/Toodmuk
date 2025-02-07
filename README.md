@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Toodmuk
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning full-stack developing
+- 👋 Hi, I’m Worachit Chantarawichai
+- 👀 I’m interested in developing websites, AI, and Machine Learning
+- 🌱 I’m currently learning full-stack developing and AI
 - 💞️ I’m looking to collaborate on developing projects
 - 📫 How to reach me : https://www.instagram.com/worachit_crc/
 - 😄 Pronouns: Seven
